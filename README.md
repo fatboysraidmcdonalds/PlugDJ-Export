@@ -5,7 +5,8 @@ This will export your PlugDJ playlists to JSON files, which can be used to impor
 # Instructions
 
 1) Open plug.dj <br />
-2) Run the script (create a bookmarklet with the code in Bookmark.js as the URL) <br />
-3) ??? <br />
-4) Profit <br />
-5) Outdated meme
+2) Run the script (open this <a href="https://rawgit.com/fatboysraidmcdonalds/PlugDJ-Export/master/Bookmark.js" target="_blank">Bookmark</a> link, copy the text on that page, create a bookmark, paste the text into the URL parameter of the bookmark, then save, open the plug.dj tab, and click the bookmark) <br />
+3) For every save prompt, just choose where you want to save the file, change the filename if you wish, and hit save <br />
+4) ??? <br />
+5) Profit <br />
+6) Outdated meme
